@@ -1,4 +1,5 @@
 3321e6a2821fd36d555d8a3eb2156fcb
+Token: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMzIxZTZhMjgyMWZkMzZkNTU1ZDhhM2ViMjE1NmZjYiIsIm5iZiI6MTczNjM1MjE3MC4wMzAwMDAyLCJzdWIiOiI2NzdlYTFhYTM0YTRlNzVlNDk3YjEzOGMiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.1fNdovINKhPI-HMogL0IiD7QdFWE5N8UDv_FG6R45Tc
 
 Search: https://api.themoviedb.org/3/search/movie?include_adult=false&language=en-US&page=1
 
@@ -10,4 +11,4 @@ Top Rated: https://api.themoviedb.org/3/movie/top_rated?language=en-US&page=1
 
 Upcoming: https://api.themoviedb.org/3/movie/upcoming?language=en-US&page=1
 
-Detail: https://api.themoviedb.org/3/movie/movie_id?language=en-US
+Detail: https://api.themoviedb.org/3/movie/939243?language=en-US

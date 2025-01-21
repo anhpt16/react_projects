@@ -5,8 +5,13 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 body {
     font-family: 'Roboto';
+}
+
+main {
+    max-width: 1280px;
+    margin: auto;
+    min-height: 90vh;
+    padding: 10px;
 }
